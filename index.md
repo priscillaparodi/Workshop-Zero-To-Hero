@@ -8,7 +8,7 @@ Uma hora por dia durante uma semana. Workshop Virtual sobre o Stack da Elastic (
 
 Aqui você encontrará toda a documentação oficial de todos os Workshops.
 
-**Cronograma**
+**Cronograma** 
 
 
 | Data | Assunto | Ferramenta	| Detalhes | Mentor
