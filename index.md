@@ -11,16 +11,16 @@ Aqui você encontrará toda a documentação oficial de todos os Workshops.
 **Cronograma**
 
 
-| Data | Assunto | Ferramenta	| Detalhes | Mentor
+| Data | Assunto | Ferramenta	| Detalhes | Vídeo |
 | :---: | :---: | :---: | :---: | :---: |
-| 06/04/2020 | Apresentação Elastic + Provisionamento e Instalação | Elastic Stack | Apresentação da @Elastic + Provisionando Ambiente no GCP Utilizando Docker Compose | Anselmo Borges
-| 07/04/2020 | Observabilidade | Beats + APM | .- Apresentação sobre os conceitos de Observabilidade com a Stack - Monitorando Métricas e Logs na prática | Felipe Queiroz e Anselmo Borges
-| 08/04/2020 | Conhecendo o Elasticsearch | Elasticsearch | Aprenderemos na teoria e na prática os fundamentos do Elasticsearch - Mapeamentos - Índices - Buscas | Felipe Queiroz
-| 09/04/2020 | Conhecendo o Logstash | Logstash | Criaremos o primeiro pipeline de ingestão de dados para processar logs! | Felipe Queiroz e Anselmo Borges
-| 10/04/2020 | Conhecendo o Kibana | Kibana | Com os dados ingeridos no Logstash no dia anterior, criaremos nossos primeiros dashboards para análise dos Dados no Kibana! | Felipe Queiroz
+| 06/04/2020 | Apresentação Elastic + Provisionamento e Instalação | Elastic Stack | Introdução ao Elastic Stack + Provisionando Ambiente no GCP Utilizando Docker Compose | [Vídeo 1](https://ela.st/br-day1)
+| 07/04/2020 | Observabilidade | Beats + APM | .- Apresentação sobre os conceitos de Observabilidade com a Stack - Monitorando Métricas e Logs na prática | [Vídeo 2](https://ela.st/br-day2)
+| 08/04/2020 | Conhecendo o Elasticsearch | Elasticsearch | Aprenderemos na teoria e na prática os fundamentos do Elasticsearch - Mapeamentos - Índices - Buscas | [Vídeo 3](https://ela.st/br-day3)
+| 09/04/2020 | Conhecendo o Logstash | Logstash | Criaremos o primeiro pipeline de ingestão de dados para processar logs! | [Vídeo 4](https://ela.st/br-day4)
+| 10/04/2020 | Conhecendo o Kibana | Kibana | Com os dados ingeridos no Logstash no dia anterior, criaremos nossos primeiros dashboards para análise dos Dados no Kibana! | [Vídeo 5](https://ela.st/br-day5)
 
 **Pra quem é esse material ?** 
-- **TODO MUNDO** que participou do Workshop e também quem não conseguiu comparecer, aqui ta a documentação de todos os labs que fizemos nesses dias!
+- **TODO MUNDO** que participou do Workshop e também quem não conseguiu comparecer, aqui está a documentação de todos os labs que fizemos nesses dias!
 
 **Objetivo?** 
 - Abordar os conceitos iniciais dos principais produtos da Elastic e realizar laboratórios práticos com cada um dos produtos em cenários diferentes.
@@ -34,9 +34,9 @@ Aqui você encontrará toda a documentação oficial de todos os Workshops.
 **Observações** 
 Ao final de cada dia de Workshop, todos os laboratórios serão liberados nesse site. Fique de olho!
 
-**Organizadores** 
+**Mentores / Organizadores** 
 - Anselmo Borges, Especialista em dados, entusiasta Devops, faixa preta de Jiujitsu e campeão mundial de par ou impar. [linkedin](https://www.linkedin.com/in/anselmobd/) [github](https://github.com/anselmoborges) 
 - Felipe Queiroz, Embaixador e Engenheiro Certificado da @Elastic! [linkedin](https://www.linkedin.com/in/felipe-queiroz-b83042113/) [github](https://github.com/techlipe/)
 
-**Apoio**
-- Priscilla Parodi, Advocate para @Elastic
+**Elastic**
+- Priscilla Parodi, Advocate da Elastic Latam. [linkedin](https://www.linkedin.com/in/priscillaparodi/)
