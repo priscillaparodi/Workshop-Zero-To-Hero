@@ -4,7 +4,7 @@
 * **Criado por:** Anselmo Borges e Priscilla Parodi<br>
 * **Última atualização:** 16.04.2020
 
-[Apresentação](Introdução Elastic - elastic week.pdf)
+[Introdução ao Elastic Stack](Introdução Elastic - elastic week.pdf)
 
 ![](images/dia01-instalacaoeambiente/Slide1.jpg)
 
