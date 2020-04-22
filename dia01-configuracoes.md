@@ -1,8 +1,6 @@
 | [Home](https://priscillaparodi.github.io/Workshop-Zero-To-Hero) | [Dia 01](https://priscillaparodi.github.io/Workshop-Zero-To-Hero/dia01-configuracoes) | [Dia 02](https://priscillaparodi.github.io/Workshop-Zero-To-Hero/dia02-observabilidade) | [Dia 03](https://priscillaparodi.github.io/Workshop-Zero-To-Hero/dia03-elasticsearch) | [Dia 04](https://priscillaparodi.github.io/Workshop-Zero-To-Hero/dia04-logstash) | [Dia 05](https://priscillaparodi.github.io/Workshop-Zero-To-Hero/dia05-kibana) | 
 
 # Workshop Elastic - Zero to Hero (Dia 1)
-* **Criado por:** Anselmo Borges e Priscilla Parodi<br>
-* **Última atualização:** 16.04.2020
 
 [Introdução ao Elastic Stack](Introdução Elastic - elastic week.pdf)
 
